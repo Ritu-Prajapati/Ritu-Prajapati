@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritu-Prajapati
 - 👀 I have a keen interest in refining my skills in analytics and marketing.
-- 🌱 I’m currently learning SQL,Python, Excel and Power BI.
+- 🌱 I’m currently learning SQL,Python, MS Excel and Power BI.
 - 💞️ I’m looking to make projects using Analytical tools.
 - 📫 How to reach me https://www.linkedin.com/in/ritu-prajapati-/
 <!---
